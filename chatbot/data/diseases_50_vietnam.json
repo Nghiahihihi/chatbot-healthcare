@@ -1,0 +1,415 @@
+[
+    {
+        "name": "Cúm",
+        "symptoms": [
+            "sốt",
+            "ho",
+            "mệt mỏi",
+            "đau đầu",
+            "đau họng"
+        ]
+    },
+    {
+        "name": "Cảm lạnh",
+        "symptoms": [
+            "hắt hơi",
+            "sổ mũi",
+            "ho",
+            "đau họng"
+        ]
+    },
+    {
+        "name": "COVID-19",
+        "symptoms": [
+            "sốt",
+            "ho",
+            "mất vị giác",
+            "mệt mỏi",
+            "khó thở"
+        ]
+    },
+    {
+        "name": "Viêm họng",
+        "symptoms": [
+            "đau họng",
+            "sốt",
+            "khô cổ"
+        ]
+    },
+    {
+        "name": "Viêm phổi",
+        "symptoms": [
+            "sốt cao",
+            "đau ngực",
+            "khó thở",
+            "ho có đờm"
+        ]
+    },
+    {
+        "name": "Viêm phế quản",
+        "symptoms": [
+            "ho",
+            "đờm",
+            "đau ngực",
+            "mệt mỏi"
+        ]
+    },
+    {
+        "name": "Viêm xoang",
+        "symptoms": [
+            "đau đầu",
+            "nghẹt mũi",
+            "hắt hơi",
+            "chảy mũi"
+        ]
+    },
+    {
+        "name": "Hen suyễn",
+        "symptoms": [
+            "khó thở",
+            "khò khè",
+            "ho về đêm",
+            "tức ngực"
+        ]
+    },
+    {
+        "name": "Dị ứng thời tiết",
+        "symptoms": [
+            "hắt hơi",
+            "ngứa mũi",
+            "sổ mũi"
+        ]
+    },
+    {
+        "name": "Viêm amidan",
+        "symptoms": [
+            "đau họng",
+            "sốt",
+            "khó nuốt",
+            "sưng cổ"
+        ]
+    },
+    {
+        "name": "Sốt xuất huyết",
+        "symptoms": [
+            "sốt cao",
+            "phát ban",
+            "chảy máu cam",
+            "đau cơ"
+        ]
+    },
+    {
+        "name": "Tay chân miệng",
+        "symptoms": [
+            "sốt",
+            "mụn nước",
+            "loét miệng"
+        ]
+    },
+    {
+        "name": "Thủy đậu",
+        "symptoms": [
+            "mụn nước",
+            "ngứa",
+            "sốt"
+        ]
+    },
+    {
+        "name": "Quai bị",
+        "symptoms": [
+            "sưng hàm",
+            "sốt",
+            "đau khi nuốt"
+        ]
+    },
+    {
+        "name": "Rubella",
+        "symptoms": [
+            "phát ban",
+            "sốt nhẹ",
+            "đau khớp"
+        ]
+    },
+    {
+        "name": "Viêm dạ dày",
+        "symptoms": [
+            "đau bụng",
+            "ợ chua",
+            "buồn nôn"
+        ]
+    },
+    {
+        "name": "Trào ngược dạ dày",
+        "symptoms": [
+            "ợ nóng",
+            "đầy bụng",
+            "buồn nôn"
+        ]
+    },
+    {
+        "name": "Viêm loét dạ dày",
+        "symptoms": [
+            "đau bụng",
+            "xuất huyết tiêu hóa"
+        ]
+    },
+    {
+        "name": "Táo bón",
+        "symptoms": [
+            "ít đi tiêu",
+            "khó đi ngoài",
+            "đau bụng"
+        ]
+    },
+    {
+        "name": "Tiêu chảy",
+        "symptoms": [
+            "đi ngoài nhiều",
+            "mất nước",
+            "đau bụng"
+        ]
+    },
+    {
+        "name": "Ngộ độc thực phẩm",
+        "symptoms": [
+            "buồn nôn",
+            "tiêu chảy",
+            "đau bụng",
+            "sốt"
+        ]
+    },
+    {
+        "name": "Viêm gan B",
+        "symptoms": [
+            "mệt mỏi",
+            "vàng da",
+            "chán ăn"
+        ]
+    },
+    {
+        "name": "Viêm gan C",
+        "symptoms": [
+            "đau hạ sườn",
+            "mệt",
+            "vàng da"
+        ]
+    },
+    {
+        "name": "Suy gan",
+        "symptoms": [
+            "vàng da",
+            "phù",
+            "chảy máu cam"
+        ]
+    },
+    {
+        "name": "Tiểu đường",
+        "symptoms": [
+            "khát nước",
+            "tiểu nhiều",
+            "sụt cân",
+            "mệt"
+        ]
+    },
+    {
+        "name": "Huyết áp cao",
+        "symptoms": [
+            "đau đầu",
+            "chóng mặt",
+            "đau ngực",
+            "mệt"
+        ]
+    },
+    {
+        "name": "Thiếu máu",
+        "symptoms": [
+            "chóng mặt",
+            "da xanh",
+            "mệt mỏi"
+        ]
+    },
+    {
+        "name": "Suy dinh dưỡng",
+        "symptoms": [
+            "gầy yếu",
+            "mệt mỏi",
+            "thiếu năng lượng"
+        ]
+    },
+    {
+        "name": "Đau mắt đỏ",
+        "symptoms": [
+            "mắt đỏ",
+            "chảy nước mắt",
+            "ngứa mắt"
+        ]
+    },
+    {
+        "name": "Viêm kết mạc",
+        "symptoms": [
+            "mắt đỏ",
+            "cộm mắt",
+            "sưng mí"
+        ]
+    },
+    {
+        "name": "Sỏi thận",
+        "symptoms": [
+            "đau lưng",
+            "tiểu buốt",
+            "tiểu ra máu"
+        ]
+    },
+    {
+        "name": "Viêm đường tiết niệu",
+        "symptoms": [
+            "tiểu buốt",
+            "tiểu rắt",
+            "đau bụng dưới"
+        ]
+    },
+    {
+        "name": "Nhiễm trùng đường hô hấp",
+        "symptoms": [
+            "ho",
+            "sốt",
+            "đau họng",
+            "khó thở"
+        ]
+    },
+    {
+        "name": "Viêm da dị ứng",
+        "symptoms": [
+            "ngứa",
+            "phát ban",
+            "da khô"
+        ]
+    },
+    {
+        "name": "Viêm da tiếp xúc",
+        "symptoms": [
+            "phồng rộp",
+            "ngứa",
+            "đỏ da"
+        ]
+    },
+    {
+        "name": "Viêm tuyến giáp",
+        "symptoms": [
+            "mệt",
+            "tăng cân",
+            "lạnh tay chân"
+        ]
+    },
+    {
+        "name": "Cường giáp",
+        "symptoms": [
+            "hồi hộp",
+            "sụt cân",
+            "nóng trong"
+        ]
+    },
+    {
+        "name": "Viêm tai giữa",
+        "symptoms": [
+            "đau tai",
+            "sốt",
+            "giảm thính lực"
+        ]
+    },
+    {
+        "name": "Viêm lợi",
+        "symptoms": [
+            "lợi sưng",
+            "chảy máu chân răng"
+        ]
+    },
+    {
+        "name": "Viêm nha chu",
+        "symptoms": [
+            "hôi miệng",
+            "lung lay răng",
+            "sưng nướu"
+        ]
+    },
+    {
+        "name": "Sâu răng",
+        "symptoms": [
+            "đau răng",
+            "nhạy cảm lạnh/nóng"
+        ]
+    },
+    {
+        "name": "Viêm khớp",
+        "symptoms": [
+            "đau khớp",
+            "sưng",
+            "khó vận động"
+        ]
+    },
+    {
+        "name": "Loãng xương",
+        "symptoms": [
+            "đau lưng",
+            "gãy xương dễ",
+            "giảm chiều cao"
+        ]
+    },
+    {
+        "name": "Rối loạn tiền đình",
+        "symptoms": [
+            "chóng mặt",
+            "mất thăng bằng",
+            "buồn nôn"
+        ]
+    },
+    {
+        "name": "Trầm cảm",
+        "symptoms": [
+            "buồn bã",
+            "mất hứng thú",
+            "mệt mỏi"
+        ]
+    },
+    {
+        "name": "Lo âu",
+        "symptoms": [
+            "lo lắng",
+            "tim đập nhanh",
+            "mất ngủ"
+        ]
+    },
+    {
+        "name": "Mất ngủ",
+        "symptoms": [
+            "khó ngủ",
+            "dễ thức giấc",
+            "mệt vào ban ngày"
+        ]
+    },
+    {
+        "name": "Viêm bàng quang",
+        "symptoms": [
+            "tiểu buốt",
+            "tiểu nhiều",
+            "đau bụng dưới"
+        ]
+    },
+    {
+        "name": "Viêm phổi do vi khuẩn",
+        "symptoms": [
+            "sốt cao",
+            "ho có đờm",
+            "đau ngực"
+        ]
+    },
+    {
+        "name": "Viêm phổi do virus",
+        "symptoms": [
+            "sốt",
+            "ho khan",
+            "mệt mỏi",
+            "khó thở"
+        ]
+    }
+]
